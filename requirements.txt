@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+
+streamlit
+tavily-python
+
+beautifulsoup4
+lxml
+requests
+readability-lxml
+trafilatura
+
+python-dotenv
